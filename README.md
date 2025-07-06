@@ -2,7 +2,7 @@
 
 Generate structured Google JobPosting JSON-LD markup for SEO-rich job listings.
 
-## 💡 Features
+## Features
 
 - Fill in job data via a simple form
 - Generates schema instantly in valid JSON-LD format
