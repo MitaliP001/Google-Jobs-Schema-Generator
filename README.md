@@ -9,7 +9,7 @@ Generate structured Google JobPosting JSON-LD markup for SEO-rich job listings.
 - Toggle between remote and on-site jobs
 - Copy button to quickly grab schema
 
-## 🚀 Usage
+## Usage
 
 1. Open `index.html` in your browser
 2. Fill the job posting details
